@@ -1,0 +1,17 @@
+{
+  "manifest_version": 1,
+  "name": "Compact HTML Export",
+  "version": "1.1.0",
+  "description": "Exports notes as compact HTML files and optionally sends them to a remote server.",
+  "author": "Your Name",
+  "homepage_url": "https://github.com/yourusername/joplin-compact-html-export",
+  "repository_url": "https://github.com/yourusername/joplin-compact-html-export",
+  "keywords": ["joplin-plugin", "html-export", "compact"],
+  "settings": {
+    "url": {
+      "type": "string",
+      "label": "Remote Server URL",
+      "description": "URL of the remote server to send the note in JSON format via POST request."
+    }
+  }
+}

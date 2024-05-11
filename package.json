@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "html-minifier": "^4.0.0"
+  }
+}
